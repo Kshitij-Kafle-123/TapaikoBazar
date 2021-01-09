@@ -1,4 +1,4 @@
-/*package com.bazar.util;
+package com.bazar.util;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -49,4 +49,3 @@ public class ImageUtil {
 	
 
 }
-*/
